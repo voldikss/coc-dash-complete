@@ -33,8 +33,8 @@ Type: <pre><code>number</code></pre>Default: <pre><code>3</code></pre>
 
 ## Related
 
-[coc-dot-complete]  buffer source completion triggered by `.`
-[coc-just-complete] buffer source completion triggered by `_`
+- [coc-dot-complete]  buffer source completion triggered by `.`
+- [coc-just-complete] buffer source completion triggered by `_`
 
 ## License
 
